@@ -21,9 +21,9 @@ Some of my key academic and personal projects include:
    Manages accounts, transactions, and SQL-based data operations.
 ## 💬 Contact Me
 Feel free to reach out through the contact page on my portfolio or connect via social media:
-- **Telegram:** [@my_telegram](https://t.me/@Enatwa_Gondar)
-- **YouTube:** [Your YouTube Channel](https://youtube.com/@tesfayeseifu7143)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/acefaye26)
+- **Telegram:** [https://t.me/@Enatwa_Gondar]
+- **YouTube:** [https://youtube.com/@tesfayeseifu7143]
+- **LinkedIn:** [https://linkedin.com/in/acefaye26]
 ## 🛠️ Technologies Used
 - HTML5  
 - CSS3  
